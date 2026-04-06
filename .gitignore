@@ -1,0 +1,6 @@
+*.log
+*.adbdl
+*.adbul
+__pycache__/
+*.py[cod]
+.env
